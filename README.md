@@ -13,7 +13,7 @@ Write a function `column_range_plot(A, filename="column_ranges.pdf")` that;
 - computes the range (maximum minus minimum) of each column,
 - create a bar plot showing the ranges of all columns,
 - saves the plot as a PDF file,
-- and returns a 1D NumPy array containiing the column ranges.
+- and returns a 1D NumPy array containing the column ranges.
 
 ---
 
